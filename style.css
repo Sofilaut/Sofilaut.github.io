@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,400;0,700;1,400&display=swap');
+body {
+	font-family: 'Source Serif Pro', serif;
+	color: #111;
+	background-color: whitesmoke;
+	background-image: url("300.jpg"), url("400.jpg");
+	background-repeat: no-repeat;
+	background-position: top left, top right;
+	background-attachment: fixed;
+	
+}
+	
+
+
+ 
+h1 {
+	text-align: center; 
+	font-size: 36pt;
+}
+
+h2, h3 {
+	text-align: center;
+}
+
+.tutto { 
+    margin: 0 auto;
+	max-width: 600px;  
+}
+
+img {
+	width: 600px;
+}
+.Giovanna {
+	border-style: solid;
+	border-width: 1px;
+	width: 270px;
+	margin: 10px;
+}
+
+a {
+   color: black;
+ } 
