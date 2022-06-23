@@ -9,9 +9,6 @@ body {
 	background-attachment: fixed;
 	
 }
-	
-
-
  
 h1 {
 	text-align: center; 
@@ -57,4 +54,34 @@ margin-top: 15px;
 #social {
 display: flex;
 justify-content: center;
-}	
+}
+#video {
+	width: 600px;
+	height: 335px;
+}
+
+@media screen and (max-width: 800px) {
+body {
+	background-color: whitesmoke;
+	background-image: none;
+	background-position: unset;
+}
+.tutto {
+	width: 350px;
+	}
+	img {
+	width: 350px;
+}
+.Giovanna {
+	border-style: solid;
+	border-width: 1px;
+	width: 270px;
+	margin-left: 40px;
+}
+#video {
+	width: 350px;
+	height: 180px;
+}
+}
+
+	
