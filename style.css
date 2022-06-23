@@ -22,6 +22,10 @@ h2, h3 {
 	text-align: center;
 }
 
+p {
+text-align: center;
+}
+
 .tutto { 
     margin: 0 auto;
 	max-width: 600px;  
@@ -39,4 +43,18 @@ img {
 
 a {
    color: black;
- } 
+} 
+
+.dipinti {
+
+margin-top: 15px;
+}	
+
+.social {
+	width: 50px;
+	padding: 10px;
+}	
+#social {
+display: flex;
+justify-content: center;
+}	
